@@ -44,7 +44,14 @@
 </p>
 ---
 
-## 🧠 Tech Stack (Detailed)
+## 🧠 Tech Stack Mastery
+
+> **Full-Stack Developer** with expertise across modern web technologies, cloud infrastructure, and AI/ML integration.
+
+---
+
+### 🎨 Frontend Development
+*Core languages & modern frameworks*
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,6 +63,12 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
+
+---
+
+### 🎭 Styling & UI/UX
+*Design systems, frameworks & prototyping tools*
+
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -66,6 +79,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 </p>
+
+---
+
+### ⚙️ Backend Engineering
+*Server-side languages & frameworks*
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -82,6 +101,12 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
+
+---
+
+### 🗄️ Database & Storage
+*SQL, NoSQL, ORMs & data management*
+
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -94,6 +119,12 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </p>
+
+---
+
+### 🧪 Testing & Quality Assurance
+*Unit testing, E2E, API testing & automation*
+
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -103,6 +134,33 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+---
+
+### 🛠️ DevOps & Cloud Infrastructure
+*Containerization, CI/CD, cloud platforms & orchestration*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
+
+---
+
+### 🔧 Version Control & Collaboration
+*Code management, project tracking & team tools*
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -115,6 +173,12 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+
+---
+
+### 🤖 AI, ML & Data Science
+*Machine learning frameworks, LLMs & data processing*
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -126,11 +190,24 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
+---
+
+### 🔌 Core Competencies
+*Architecture patterns & development practices*
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-REST%20API-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-JWT%20Auth-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20Integration-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Responsive%20Design-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/-RESTful%20APIs-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GraphQL-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JWT%20Authentication-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OAuth%202.0-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-WebSockets-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microservices-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Serverless-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI%20Integration-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Responsive%20Design-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Progressive%20Web%20Apps-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Agile%20%2F%20Scrum-0e75b6?style=for-the-badge" />
 </p>
 
 ---
