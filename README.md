@@ -58,11 +58,11 @@ Modern African newsletter platform
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-ghislainb-cracker&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghislainb-cracker&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-ghislainb-cracker&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghislainb-cracker&theme=tokyonight" />
 </p>
 
 ---
