@@ -34,11 +34,14 @@
 
 ## 📌 Milestones & Achievements
 
+## 📊 GitHub Performance Metrics
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ghislainb-cracker?style=for-the-badge&logo=github&label=Followers&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/ghislainb-cracker?style=for-the-badge&logo=github&label=Total%20Stars&color=0e75b6" />
-  <img src="https://img.shields.io/github/last-commit/ghislainb-cracker/ghislainb-cracker?style=for-the-badge&logo=github&label=Last%20Profile%20Update&color=0e75b6" />
-  <img src="https://img.shields.io/badge/🚀%20Projects%20Shipped-10%2B-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈%20Commits-500+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/📁%20Repositories-20+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔀%20Pull%20Requests-15+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐛%20Issues%20Solved-25+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-50+-blue?style=flat-square" />
 </p>
 
 | ✅ Milestone | 📅 Date | 🏷️ Impact |
