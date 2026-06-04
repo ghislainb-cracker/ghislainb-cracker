@@ -35,7 +35,10 @@
 ## 📌 Milestones & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghislainb-cracker&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://img.shields.io/github/followers/ghislainb-cracker?style=for-the-badge&logo=github&label=Followers&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/ghislainb-cracker?style=for-the-badge&logo=github&label=Total%20Stars&color=0e75b6" />
+  <img src="https://img.shields.io/github/last-commit/ghislainb-cracker/ghislainb-cracker?style=for-the-badge&logo=github&label=Last%20Profile%20Update&color=0e75b6" />
+  <img src="https://img.shields.io/badge/🚀%20Projects%20Shipped-10%2B-0e75b6?style=for-the-badge" />
 </p>
 
 | ✅ Milestone | 📅 Date | 🏷️ Impact |
