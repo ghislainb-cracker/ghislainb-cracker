@@ -201,15 +201,16 @@
 
 ## 📊 GitHub Analytics Dashboard
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghislainb-cracker&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghislainb-cracker&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="49%" />
-</p> -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghislainb-cracker&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ghislainb-cracker&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6" width="49%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghislainb-cracker&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghislainb-cracker&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF" width="49%" />
 </p>
+</p>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghislainb-cracker&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=0e75b6" width="49%" /> -->
+  
 
 ---
 
