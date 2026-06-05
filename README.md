@@ -217,12 +217,11 @@
 ## 🏅 Contribution & Consistency Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghislainb-cracker&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghislainb-cracker&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghislainb-cracker&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghislainb-cracker&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghislainb-cracker&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
