@@ -231,7 +231,3 @@
 > *“Don’t wait for perfect conditions. Build, break, fix, ship. Repeat.”*
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
