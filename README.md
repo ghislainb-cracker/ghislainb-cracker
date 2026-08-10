@@ -17,6 +17,15 @@
 
 ---
 
+## 🏆GitHub Ranking
+<p align="start">
+  <a href="https://user-badge.committers.top/rwanda/ghislainb-cracker">
+    <img src="https://user-badge.committers.top/rwanda/ghislainb-cracker.svg" alt="Committers.top Rwanda ranking" />
+  </a>
+</p>
+
+---
+
 ## 🎯 Professional Summary
 
 > **Full-Stack Developer** with a passion for turning ideas into production-ready web apps.  
@@ -41,13 +50,6 @@
   <img src="https://img.shields.io/badge/🔀%20Pull%20Requests-15+-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/🐛%20Issues%20Solved-25+-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/⭐%20Total%20Stars-20+-blue?style=flat-square" />
-</p>
-
-## GitHub Ranking
-<p align="start">
-  <a href="https://user-badge.committers.top/rwanda/ghislainb-cracker">
-    <img src="https://user-badge.committers.top/rwanda/ghislainb-cracker.svg" alt="Committers.top Rwanda ranking" />
-  </a>
 </p>
 
 ---
