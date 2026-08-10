@@ -42,8 +42,11 @@
   <img src="https://img.shields.io/badge/🐛%20Issues%20Solved-25+-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/⭐%20Total%20Stars-20+-blue?style=flat-square" />
 </p>
-<p>
-  [![committers.top badge](https://user-badge.committers.top/rwanda/ghislainb-cracker.svg)](https://user-badge.committers.top/rwanda/ghislainb-cracker)
+
+<p align="center">
+  <a href="https://user-badge.committers.top/rwanda/ghislainb-cracker">
+    <img src="https://user-badge.committers.top/rwanda/ghislainb-cracker.svg" alt="Committers.top Rwanda ranking" />
+  </a>
 </p>
 ---
 
