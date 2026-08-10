@@ -44,11 +44,12 @@
 </p>
 
 ## GitHub Ranking
-<p align="center">
+<p align="start">
   <a href="https://user-badge.committers.top/rwanda/ghislainb-cracker">
     <img src="https://user-badge.committers.top/rwanda/ghislainb-cracker.svg" alt="Committers.top Rwanda ranking" />
   </a>
 </p>
+
 ---
 
 ## 🧠 Tech Stack Mastery
